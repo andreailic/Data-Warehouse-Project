@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Projekat">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=147.91.175.176;Initial Catalog=it70g2019</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>a6b9c8af-2c0e-4e3e-a3a7-a2030cd6b868</DataSourceID>
+</RptDataSource>
