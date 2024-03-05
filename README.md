@@ -1,1 +1,3 @@
 # Data-Warehouse-Project
+
+The documentation,also provided in this repository, will give a detailed explanation of the process of creating the data warehouse, starting with the dataset selection and the creation of an appropriate OLAP (Online Analytical Processing) schema, which will serve as the foundation for implementing the data warehouse. The Extract, Transform, Load (ETL) process is also explained, as it aims to transform and cleanse the source data, loading it into the created data warehouse. Finally, graphical representations and explanations of the generated reports, which provide answers to specified user requirements, are presented.
